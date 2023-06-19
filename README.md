@@ -14,11 +14,7 @@ This repository is dedicated to practicing Verilog on a daily basis. Each day fo
 - [Day 8: Gray to Binary Code Converter](#day-8-gray-to-binary-code-converter)
 - [Day 9: 3:8 Decoder](#day-10-38-decoder)
 - [Day 10: 2:4-decoder](#day-10-24-decoder)
-- [Day 11: Full adder using conditional operator](#day-11-Full adder(conditional operator))
-- [Day 12: 4:1 mux using conditional operator](#day-12-2:1mux(coditional operator))
-- [Day 13: 2:1 mux using conditional operator](#day-13-4:1mux(coditional operator))
-- [Day 14: 4 bit full adder using concatenation](#day-14- 4 bit full adder(using concatenation))
-- [Day 15: 1:4 DEMUX structural model](#day-15- 1:4 DEMUX structural model(structural modelling))
+-[Day 11: Full adder using conditional operator(#day-11-Full adder(conditional operator))]
 
 ## Day 1: Half Adder
 
