@@ -14,7 +14,7 @@ This repository is dedicated to practicing Verilog on a daily basis. Each day fo
 - [Day 8: Gray to Binary Code Converter](#day-8-gray-to-binary-code-converter)
 - [Day 9: 3:8 Decoder](#day-10-38-decoder)
 - [Day 10: 2:4-decoder](#day-10-24-decoder)
--[Day 11: Full adder using conditional operator(#day-11-Full adder(conditional operator))]
+-[Day 11: Full adder using conditional operator](#day-11-Full adder(conditional operator))]
 
 ## Day 1: Half Adder
 
