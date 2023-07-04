@@ -1,0 +1,8 @@
+Mealy FSM : In mealy FSM output depends on preset state as well as current input . 
+  1. synchronous FSM :-It is one process methology. That is no. of always block is =1 .
+  2. asynchronous FSM :- It is two -three process methology. That is no. of always block is = 2 to 3 .
+
+Moore FSM : In moore  FSM output only depends on preset state .
+  1. synchronous FSM :- we will use  two -three process methology. 
+  2. asynchronous FSM :- we will use one process methology. 
+     
